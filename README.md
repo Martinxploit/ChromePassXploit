@@ -7,6 +7,9 @@
 ChromePassXPloit is a powerful and user-friendly command-line tool designed for post-exploitation scenarios. With its advanced encryption decryption capabilities, this tool allows security professionals and ethical hackers to safely and efficiently decrypt Chrome's saved encrypted passwords.
 
 In post-exploitation situations, access to stored credentials can be a game-changer. ChromePassXPloit simplifies the process of retrieving these valuable passwords from Chrome's encrypted storage, providing an essential addition to your security arsenal.
+# Supported OS : 
+Windows 10 ,
+Windows 11
 
 # Contact :
 Instagram: <a href="https://www.instagram.com/bunty0020">bunty0020</a><br>
